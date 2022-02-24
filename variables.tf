@@ -1,5 +1,5 @@
 variable "my_length" {
-  default = 5
+  default = 55
 }
 variable "my_number" {
   default = true
